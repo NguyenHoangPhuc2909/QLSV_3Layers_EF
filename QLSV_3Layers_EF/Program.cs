@@ -16,7 +16,7 @@ namespace QLSV_3Layers_EF
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fDangNhap());
+            Application.Run(new fQuanLy1());
         }
     }
 }
