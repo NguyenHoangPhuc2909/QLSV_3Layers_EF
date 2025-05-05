@@ -31,8 +31,5 @@ namespace QLSV_3Layers_EF.DAL
         [Required]
         public double Score { get; set; }
 
-        [Required]
-        [StringLength(20)]
-        public string Semester { get; set; }
     }
 }

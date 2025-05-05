@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data.Entity;
 using System.Linq;
-
+using QLSV_3Layers_EF.DTO;
 namespace QLSV_3Layers_EF.DAL
 {
     public class Model1 : DbContext
